@@ -46,7 +46,7 @@ Portfolio personnel développé avec React et Tailwind CSS, présentant mes comp
 ## 🚀 Déploiement
 
 Déployez via votre plateforme préférée :
-- Hostinger
+- Vercel
 
 ## 🔗 Liens Importants
 
